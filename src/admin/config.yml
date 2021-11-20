@@ -13,7 +13,7 @@ local_backend: true
 # publish_mode: editorial_workflow
 collections:
   - label: "Blog"
-    name: "blog__"
+    name: "blog"
     folder: "src/posts"
     create: true
     editor:
