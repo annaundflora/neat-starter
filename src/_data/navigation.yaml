@@ -1,6 +1,6 @@
 items:
-  - text: Menu One
-    url: Menu One
+  - text: Home
+    url: https://zen-nobel-044294.netlify.app/
   - text: Menu Two
     url: "#"
   - text: Menu Three
