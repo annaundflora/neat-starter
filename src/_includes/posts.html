@@ -13,6 +13,11 @@ prism: true
 
             </time>
         </p>
+        {% if study %}
+            <a href="{{ study }}">{{ study }}</a>
+        {% else %}
+            Untitled
+        {% endif %}
 
     </div>
     <article class="prose lg:prose-xl my-4 mx-auto">
