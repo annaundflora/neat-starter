@@ -1,5 +1,5 @@
 ---
-title: Testpost Update
+title: Testpost
 study: https://pubmed.ncbi.nlm.nih.gov/29099763/
 description: Epidemiological studies indicate that hypovitaminosis C is still
   relatively common in Western populations, and vitamin C deficiency is the
